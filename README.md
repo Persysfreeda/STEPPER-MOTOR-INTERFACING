@@ -1,6 +1,6 @@
 # STEPPER MOTOR INTERFACING
-REG NO : 212224060185
-NAME : PERSYS FREEDA J
+# REG NO : 212224060185
+# NAME : PERSYS FREEDA J
 ## AIM
 To write an assembly language program in 8086 to rotate the motor at different speeds.
 
