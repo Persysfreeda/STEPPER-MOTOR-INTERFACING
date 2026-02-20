@@ -1,5 +1,6 @@
 # STEPPER MOTOR INTERFACING
-
+REG NO : 212224060185
+NAME : PERSYS FREEDA J
 ## AIM
 To write an assembly language program in 8086 to rotate the motor at different speeds.
 
@@ -70,6 +71,7 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
+<img width="878" height="657" alt="image" src="https://github.com/user-attachments/assets/763c75f8-e10a-4513-96ee-02f0c496599a" />
 
 ## RESULT
 
